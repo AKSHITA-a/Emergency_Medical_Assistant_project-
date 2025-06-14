@@ -40,5 +40,6 @@ class VideoTutorials(ttk.Frame):
     def open_video_from_list(self, event):
         selection = self.listbox.get(tk.ACTIVE)
         if selection in self.videos:
-            webbrowser.open(self.videos[selection])
+            webbrowser.open_new_tab(self.videos[selection])
+
 
