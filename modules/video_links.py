@@ -3,10 +3,10 @@
 
 video_data = {
     "CPR (Adult)":"https://youtube.com/shorts/9HeRaGW3fyo?si=EwMCp8PUo1z1l-2v",
-    "Burn Treatment": "https://www.youtube.com/watch?v=mrW5f5zwfF4",
+    "Burn Treatment": "https://youtube.com/shorts/t0EwEa9ykgc?si=Gg96YzjVIVWhO7G7",
     "Choking First Aid": "https://www.youtube.com/watch?v=pa5I3n6HqKY",
-    "Bleeding Control": "https://www.youtube.com/watch?v=sqv5bFh5ISs",
-    "Snake Bite": "https://www.youtube.com/watch?v=jEVqH1dquw8",
+    "Bleeding Control": "https://youtu.be/qxH_NzFUwpM?si=zVmtYNuXo4Njw8h3",
+    "Snake Bite": "https://youtu.be/TjlMsh2Znws?si=aTxFkUTPqBtp8Lne",
     "Fainting Response": "https://www.youtube.com/watch?v=H3CzqZ8jUm0",
     "Asthma Attack Help": "https://www.youtube.com/watch?v=6f5-FGC1_AE",
     "Heart Attack Symptoms": "https://www.youtube.com/watch?v=5W7n8xyK3MQ",
